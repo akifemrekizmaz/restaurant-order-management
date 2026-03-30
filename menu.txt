@@ -1,0 +1,9 @@
+1,Adana Kebap,Ana Yemek,160.0,Acili kiyma kebabi
+2,Lahmacun,Ana Yemek,45.0,Ince hamur + kiyma
+3,Mercimek Corbasi,Corba,35.0,Klasik Turk corbasi
+4,Ayran,Icecek,20.0,Soguk yogurt icecegi
+5,Kola,Icecek,25.0,330ml
+6,Sutlac,Tatlı,40.0,Firinda sutlac
+7,Baklava,Tatlı,55.0,Antep fistikli
+8,Pide,Ana Yemek,65.0,Karisik pide
+9,Künefe,Tatlı,300.0,
