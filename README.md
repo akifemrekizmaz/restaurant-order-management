@@ -19,6 +19,8 @@ A Java Swing desktop application for restaurant order management.
 - Sorting algorithms (Bubble Sort, Selection Sort, Insertion Sort)
 
 ## Project Structure
+## Project Structure
+```
 src/
 ├── Main.java
 ├── model/
@@ -32,12 +34,13 @@ src/
 │   ├── UserManager.java
 │   └── FileManager.java
 └── gui/
-├── LoginFrame.java
-├── MainFrame.java
-├── MenuPanel.java
-├── OrderPanel.java
-├── StatisticsPanel.java
-└── UserPanel.java
+    ├── LoginFrame.java
+    ├── MainFrame.java
+    ├── MenuPanel.java
+    ├── OrderPanel.java
+    ├── StatisticsPanel.java
+    └── UserPanel.java
+```
 ## How to Run
 
 1. Open project in NetBeans (Java with Ant)
