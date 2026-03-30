@@ -19,7 +19,6 @@ A Java Swing desktop application for restaurant order management.
 - Sorting algorithms (Bubble Sort, Selection Sort, Insertion Sort)
 
 ## Project Structure
-## Project Structure
 ```
 src/
 ├── Main.java
